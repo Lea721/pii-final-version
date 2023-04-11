@@ -1,0 +1,8 @@
+{
+    "":"getRecieved.html",
+    "/":"getRecieved.html",
+    "/login":"login.html",
+    "/signup":"signup.html",
+    "/account/<name>":"account.html",
+    "/lea":"../../Desktop/lea.html"
+}
